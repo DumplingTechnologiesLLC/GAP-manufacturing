@@ -1,5 +1,9 @@
 module.exports = [
   {
+    text: 'Manufacturing',
+    img: '/images/industries/manufacturing-min.webp'
+  },
+  {
     text: 'Materials Handling',
     img: '/images/industries/materialsHandling-min.webp'
   },
@@ -18,10 +22,6 @@ module.exports = [
   {
     text: 'Safety',
     img: '/images/industries/safety-min.webp'
-  },
-  {
-    text: 'Manufacturing',
-    img: '/images/industries/manufacturing-min.webp'
   },
   {
     text: 'Industrials',
